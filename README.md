@@ -51,4 +51,4 @@ The software, ReProvision Reborn (and by extension, ``libReprovision`` as found 
 
 Special thanks to [Matchstic](https://github.com/Matchstic) for originally developing ReProvision, and [rileytestut](https://github.com/rileytestut) for his amazing work on AltStore.
 
-Find more informations about the project via [ONE jailbreak](https://onejailbreak.com/blog/reprovision-reborn/)
+Find more informations about the project via [ONE jailbreak](https://onejailbreak.com/blog/reprovision-reborn/).
