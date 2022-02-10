@@ -50,3 +50,5 @@ Licensed under the AGPLv3 license. This project occupies specific third-party li
 The software, ReProvision Reborn (and by extension, ``libReprovision`` as found in ``/Shared/``), and all consecutive copies of the software, are provided without warranty and AS-IS. **This project is NOT intended for piracy.**
 
 Special thanks to [Matchstic](https://github.com/Matchstic) for originally developing ReProvision, and [rileytestut](https://github.com/rileytestut) for his amazing work on AltStore.
+
+Find more informations about the project via [ONE jailbreak](https://onejailbreak.com/blog/reprovision-reborn/)
